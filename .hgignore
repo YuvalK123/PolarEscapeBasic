@@ -1,0 +1,14 @@
+syntax: glob
+Library
+obj
+Output
+Temp
+*.pidb
+*.sln
+*.suo
+*.userprefs
+*.csproj
+*.unityproj
+*.orig
+*.DS_Store
+*.booproj

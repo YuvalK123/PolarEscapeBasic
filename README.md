@@ -1,2 +1,2 @@
 # PolarEscape
-PolarEscape is a basic 2 player race game.
+PolarEscape is a basic race game.
